@@ -41,7 +41,16 @@
    ```bash
    php artisan serve
    ```
+8.  **Login Credentials**
+    - Use the following accounts to log in:
+        - Admin Account
+            - Email: admin@gmail.com
+            - Password: 123456
 
+        - User Account
+            - Email: user@gmail.com
+            - Password: 123456
+    - These users are automatically created by the seeder.
 ---
 
 ## Task Guidelines
